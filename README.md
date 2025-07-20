@@ -2,6 +2,8 @@
 
 ## 🚀 Overview
 
+*Created by [Alaa Labban](https://github.com/AlaaLabban)*
+
 This project provides a complete workflow to download, process, and merge large climate datasets from the Copernicus Climate Data Store (CDS).
 
 It is designed to handle multi-year data requests efficiently by breaking them into smaller yearly chunks, downloading them (sequentially or in parallel), and then combining them into a single, analysis-ready NetCDF file.
